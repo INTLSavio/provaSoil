@@ -11,7 +11,7 @@ Ou
 <br/>
 Na raiz do projeto existe um arquivo de exemplo .env.example
 <br/>
-Basta colocar o endereço da sua API
+Basta colocar o endereço da sua API e renomear o arquivo para .env
 <br/>
 
 <br/>
