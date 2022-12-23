@@ -11,7 +11,7 @@ Ou
 <br/>
 Na raiz do projeto existe um arquivo de exemplo .env.example
 <br/>
-Basta colocar as credenciais do seu banco Postgres e uma chave secreta para autenticação
+Basta colocar as credenciais do seu banco Postgres e uma chave secreta para autenticação e renomear o arquivo .env
 <br/>
 Após configurar o banco deve-se executar o seguinte comando para criar as tabelas necessárias no banco de dados
 
